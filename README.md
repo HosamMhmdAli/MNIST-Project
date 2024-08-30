@@ -1,2 +1,2 @@
 # MNIST-Project
-MNIST Project using  CNN
+MNIST Project Handwriting Recognition using  CNN
